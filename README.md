@@ -91,3 +91,5 @@ Discord: DeBos#3292
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project uses [json.lua](https://github.com/rxi/json.lua) library licensed under the MIT License - see the [LICENSE](LICENSES/LICENSE.json.lua) file for details.

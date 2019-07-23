@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2019-07-23
+
+### Changed
+
+##### [README.md](README.md)
+
+- `License` section.
+
 ## [1.0.3] - 2019-07-23
 
 ### Added
